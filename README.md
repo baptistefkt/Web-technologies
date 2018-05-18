@@ -1,4 +1,4 @@
-# Web echnologies
+# Web technologies
 Let's clarify what technology for what purpose.
 
 ## Alphabetical list of various common web technologies
