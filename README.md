@@ -1,5 +1,6 @@
 # Web technologies
-Let's clarify what technology for what purpose.
+Let's clarify what technology for what purpose. 
+(This repository is part of this [presentation](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d))
 
 ## Alphabetical list of various common web technologies
 
